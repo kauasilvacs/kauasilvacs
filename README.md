@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Information+Security+Intern;Cybersecurity+Student;Linux+%7C+AWS+%7C+Networks;Infrastructure+and+Monitoring;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=kakasec&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kauasilvacs&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kakasec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauasilvacs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauasilvacs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kakasec&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauasilvacs&theme=tokyo-night"/>
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kakasec&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kauasilvacs&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -115,11 +115,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
