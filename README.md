@@ -73,11 +73,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-LINK">
+<a href="https://linkedin.com/in/kauasilvacs">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:kakadevsx@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
