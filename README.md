@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Kauã%20Silva&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,100:2563eb&text=Kauã%20Silva&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Olá, eu sou o Kauã Silva
 
-### 🔐 Information Security Intern | ☁️ Cloud Enthusiast | 🐧 Linux | 🌐 Infrastructure
+### 🔐 Information Security Intern • ☁️ Cloud • 🐧 Linux • 🌐 Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Information+Security+Intern;Cybersecurity+Student;Linux+%7C+AWS+%7C+Networks;Infrastructure+and+Monitoring;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Information+Security+Intern;Cybersecurity+Student;Linux+%7C+AWS+%7C+Infrastructure;Always+Learning"/>
 
-<img src="https://komarev.com/ghpvc/?username=kauasilvacs&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kauasilvacs&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -16,19 +16,15 @@
 
 # 🚀 Sobre mim
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-
-🔐 Estagiário em **Segurança da Informação**
-
-☁️ Estudando **AWS Cloud**
-
-🐧 Apaixonado por Linux
-
-📊 Monitoramento com **Zabbix** e **Grafana**
-
-🌐 Infraestrutura, Redes e Automação
-
-💻 Sempre aprendendo novas tecnologias
+- 🔐 Estagiário em **Segurança da Informação**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
+- ☁️ Estudando **AWS Cloud**
+- 🐧 Apaixonado por Linux
+- 🌐 Infraestrutura e Redes
+- 📊 Monitoramento com Zabbix e Grafana
+- 🐳 Docker
+- 🐍 Python
+- 💻 Sempre aprendendo novas tecnologias
 
 ---
 
@@ -36,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,bash,git,github,python,js,ts,react,html,css,php,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,bash,python,git,github,vscode,mysql,php,html,css,js,ts,react"/>
 
 </div>
 
@@ -44,70 +40,32 @@
 
 # 📚 Atualmente estudando
 
-- 🔐 Segurança da Informação
-- ☁️ AWS Cloud Practitioner
-- 🐧 Linux Administration
-- 🌐 Redes de Computadores
-- 🐍 Python
-- 🐳 Docker
-- 📊 Grafana
-- 📈 Zabbix
+- Segurança da Informação
+- AWS Cloud Practitioner
+- Linux Administration
+- Redes de Computadores
+- Docker
+- Python
+- Zabbix
+- Grafana
 
 ---
 
-# 📈 Estatísticas
+# 📜 Certificações
 
-<div align="center">
+🚧 Em andamento
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kauasilvacs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauasilvacs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- AWS Cloud Practitioner
+- Estudos em Cyber Security
 
 ---
 
-# 📊 Atividade
+# 🚀 Objetivos
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauasilvacs&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kauasilvacs&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# ⚡ Tecnologias
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</div>
+- 🔹 Tornar-me Analista de Segurança da Informação
+- 🔹 Especializar-me em Cloud Security
+- 🔹 Aprender Pentest e Blue Team
+- 🔹 Contribuir para projetos Open Source
 
 ---
 
@@ -115,7 +73,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://linkedin.com/in/SEU-LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -129,8 +87,8 @@
 
 <div align="center">
 
-### 💙 "Keep learning. Keep building. Keep securing."
+## 💙 "Keep learning. Keep building. Keep securing."
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a"/>
