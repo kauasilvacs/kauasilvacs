@@ -74,11 +74,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco evoluir cons
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/kauasilvacs">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:kauavinicioscs@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
